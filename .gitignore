@@ -1,2 +1,5 @@
-# Mac things
+# Graphics Source Files
+/graphics_source
+
+# MacOS things
 .DS_Store

@@ -1,7 +1,7 @@
 ---
 title: 'Canvas: Drop Lowest Midterm Score'
-author: Alan Wong
 date: December 2018
+css: drop-lowest-score.css
 output:
   html_document:
     theme: journal
@@ -57,3 +57,10 @@ made are applied by checking the Gradebook.
 
 ![The Gradebook will show which scores are dropped by highlighting them (in grey).](graphics/gradebook.png)
 
+
+<div class="footer">
+<hr>
+  <span class="message">Return to the [Github repository](https://github.com/captainalan/canvas-drop-lowest-score).</span>
+
+  <span class="copyright">Copyright (c) 2018 Alan Wong</span>
+</div>

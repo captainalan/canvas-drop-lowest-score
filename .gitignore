@@ -1,5 +1,8 @@
 # Graphics Source Files
 /graphics_source
 
+# R things
+.Rhistory
+
 # MacOS things
 .DS_Store

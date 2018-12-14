@@ -1,5 +1,5 @@
 See the tutorial on [Github
-pages]("http://captainalan.github.io/canvas-drop-lowest-score").
+pages](https://captainalan.github.io/canvas-drop-lowest-score/).
 
 This tutorial was made with R Studio.
 
